@@ -394,6 +394,9 @@ A如何杀死老鼠
 牛顿成为一个著名的城市
 
 7、 The residents of 24 Acacia Grove were dissatisfied with the condition of the property, so John Preston called a meeting to discuss things last week. At the meeting John suggested setting up a residents' committee. Everyone was so worried and angry about the agent's inactivity that they agreed, and they elected John as chairman of the committee. Many residents said that they were tired of telephoning the agent and tired of complaining about the flats. Although the agent was responsible for the flats, they thought that he didn't do enough. Therefore John was asked to write to the agent and say that they were disappointed with the management of the flats. The next service payment was due at the end of the month. However, they agreed not to pay it until they were happy with the plans to improve the property. They decided to tell the agent that he must start the work within one month. They all went away very pleased with themselves. The residents of 24 Acacia Grove were dissatisfied with the condition of the property, so John Preston called a meeting to discuss things last week. At the meeting John suggested setting up a residents' committee. Everyone was so worried and angry about the agent's inactivity that they agreed, and they elected John as chairman of the committee. Many residents said that they were tired of telephoning the agent and tired of complaining about the flats. Although the agent was responsible for the flats, they thought that he didn't do enough. Therefore John was asked to write to the agent and say that they were disappointed with the management of the flats. The next service payment was due at the end of the month. However, they agreed not to pay it until they were happy with the plans to improve the property. They decided to tell the agent that he must start the work within one month. They all went away very pleased with themselves.
+
+24个金合欢林的居民对该地产的状况不满意，所以约翰·普雷斯顿上周召开了一次会议讨论此事。在会上，约翰建议成立一个居民委员会。每个人都为经纪人的不作为感到担忧和愤怒，他们同意了，并选举约翰为委员会主席。许多居民说，他们厌倦了给经纪人打电话，也厌倦了抱怨公寓。虽然经纪人对公寓负责，但他们认为他做得不够。因此，约翰被要求写信给代理人，说他们对公寓的管理感到失望。下一笔服务费应在月末支付。然而，他们同意在对改善房产的计划感到满意之前不支付。他们决定告诉代理人他必须在一个月内开始工作。他们都很高兴自己走了。24个金合欢林的居民对房子的状况不满意，所以约翰·普雷斯顿上周召开了一次会议讨论此事。在会上，约翰建议成立一个居民委员会。每个人都为经纪人的不作为感到担忧和愤怒，他们同意了，并选举约翰为委员会主席。许多居民说，他们厌倦了给经纪人打电话，也厌倦了抱怨公寓。虽然经纪人对公寓负责，但他们认为他做得不够。因此，约翰被要求写信给代理人，说他们对公寓的管理感到失望。下一笔服务费应在月末支付。然而，他们同意在对改善房产的计划感到满意之前不支付。他们决定告诉代理人他必须在一个月内开始工作。他们都很高兴自己走了。
+
 1、 Why did John Preston call a meeting last week?
 ABecause the residents were dissatisfied with the present residents' committee
 BBecause the residents were dissatisfied with the bad management of the flats
@@ -401,7 +404,11 @@ CBecause some residents requested to change the present residents' committee
 DBecause he wanted to become Chairman of the committee
 正确答案：B
 
-  
+  1.约翰·普雷斯顿上周为什么召开会议？
+因为居民对现在的居民委员会不满意
+因为居民对公寓管理不善不满意
+CBE由于一些居民要求改变目前的居民委员会
+因为他想成为委员会主席
 
 2、 Who elected John as chairman of the committee?
 AThe agent
@@ -410,7 +417,11 @@ CThe committee
 DAcacia Grove
 正确答案：B
 
-  
+  2.谁选举约翰为委员会主席？
+代理
+B居民
+C委员会
+达卡西亚小树林
 
 3、 What does the word “inactivity” mean in the third sentence in Para
 AWeakness
@@ -419,7 +430,11 @@ CState
 DLack of actions
 正确答案：D
 
-  
+  3.第3段第3句中的“不活动”是什么意思？
+敬畏
+B程序
+CState公司
+D行动结束
 
 4、 What does the word “due" mean in the first sentence of Para
 Ato be paid
@@ -428,7 +443,11 @@ Cowed
 Dlarge
 正确答案：A
 
-  
+ 4、“到期”一词在第1段的第一句话中是什么意思？
+ATO支付
+B属性
+带罩的
+大 
 
 5、 When did they agree to pay the next service payment?
 AAt the end of the month
@@ -437,16 +456,27 @@ CWhen they were happy with the plans to improve the property
 DThe agent would tell them
 正确答案：C
 
-  
+  他们什么时候同意支付下一笔服务费？
+月末
+B一个月内
+当他们对改善房产的计划满意时
+D探员会告诉他们
 
 8、 What makes a person a scientist? Does he have ways or tools of learning that are different from those of others? The answer is “no”. It is not the tools a scientist uses but how he uses these tools that make him a scientist. You will probably agree that knowing how to use a power is important to a carpenter. You will probably agree, too, that knowing how to investigate, how to discover information, is important to everyone. The scientist, however, goes one step further, he must be sure that he has a reasonable answer to his questions and that his answer can be confirmed by other persons. He also works to fit the answer he gets to many questions into a large set of ideas about how the world works. The scientist's knowledge must be exact. There is no room for half right or right just half the time. He must be as nearly right as the conditions permit. What works under one set of conditions at one time must work under the same conditions at other times. If the conditions are different, any changes the scientist observes in a demonstration must be explained by the changes in the conditions. This is one reason that investigations are important in science. Albert Einstein, who developed the theory of relativity, arrived at this theory through mathematics. The accuracy of this mathematics was later tested through investigations, Einstein's ideas were shown to be correct. A scientist uses many tools for measurements. Then the measurements are used to make mathematical calculations that may test his investigations.
+
+8.什么使一个人成为科学家？他有没有不同于其他人的学习方法或工具？答案是“不”。不是科学家使用的工具，而是他如何使用这些工具使他成为科学家。你可能会同意知道如何使用电源对木匠很重要。你可能也会同意，知道如何调查、如何发现信息对每个人都很重要。然而，科学家更进一步，他必须确保他对自己的问题有一个合理的答案，并且他的答案可以被其他人确认。他还努力使自己对许多问题的答案与一系列关于世界如何运作的想法相适应。这位科学家的知识一定是准确的。一半是对的，一半是对的，一半是对的。他必须在条件允许的情况下尽可能正确。一次在一组条件下工作的内容在其他时间必须在相同条件下工作。如果条件不同，科学家在演示中观察到的任何变化都必须用条件的变化来解释。这就是调查在科学中很重要的一个原因。爱因斯坦发展了相对论，他是通过数学得出这个理论的。后来通过调查检验了这一数学的准确性，爱因斯坦的想法被证明是正确的。科学家使用许多工具进行测量。然后，测量值被用来进行数学计算，以检验他的研究。
+
 1、 What makes a scientist according to the passage?
 AThe tools he uses
 BThe way he uses his tools
 CHis way of learning
 DThe various tools he uses
 正确答案：B
-
+是什么让科学家根据这段话？
+他使用的工具
+B他使用工具的方式
+Chis学习方式
+他使用的各种工具
   
 
 2、 The underlined part in the passage shows______
@@ -456,7 +486,11 @@ Cthe difference between scientists and ordinary people
 Dthe difference between carpenters and people with other jobs
 正确答案：C
 
-  
+  文中带下划线部分显示____
+A.信息的重要性
+B思考的重要性
+C科学家和普通人的区别
+木工和其他工作人员的区别
 
 3、 A sound scientific theory should be one that______
 Aworks not only under one set of conditions at one time, but also under the same conditions at other times
@@ -465,7 +499,11 @@ Ccan be used for many purposes
 Dleave no room for improvement
 正确答案：A
 
-  
+  一个健全的科学理论应该是____
+A不仅一次在一组条件下工作，另一次也在相同条件下工作。
+B即使在不同条件下也不允许任何更改
+CCAN可用于多种用途
+D没有改进的余地
 
 4、 The author quotes the case of Albert Einstein to illustrate______
 Athat measurements are keys to success in science
@@ -474,7 +512,11 @@ Cthat the investigations are important in science
 Dthat the mathematical calculations may test his investigations
 正确答案：C
 
-  
+  作者引用爱因斯坦的例子来说明____
+Athat测量是科学成功的关键
+B数学精度
+C调查在科学上很重要
+数学计算可以检验他的研究。
 
 5、 What is the main idea of the passage?
 AThe theory of relativity
@@ -483,9 +525,16 @@ CScientists are different from ordinary people
 DExactness and ways of using tools are the keys to the making of a scientist
 正确答案：D
 
-  
+  这段话的主要意思是什么？
+A相对论
+bexactness是科学的核心
+科学研究者不同于普通人
+机敏和使用工具的方法是造就科学家的关键。
 
 9、 When I was a little girl, my brother and I collected stamps for many years. My mother didn't use to work during the week, but she worked in the post office near our house on Saturdays, and she used to bring home all the new stamps as soon as they were issued(发行）. On the day of the world cup football final in London in 1966, we were very excited because England were playing West Germany in the final. When we were having lunch, my mother told us to go to the post office straightaway after the match if England won, but she didn't tell us why. At 2o'clock my mother went back to work as usual, while the rest of the family were watching the football on TV at home. Although she wasn't watching the match, she was listening to it on the radio. England won 4:2 and so my brothers and I ran to the post office. As we burst in, my mother was standing behind the counter. She was waiting to sell us a very special limited edition with ENGLAND WINNERS on each stamp. We were over the moon. We still have it today, and perhaps it is worth a lot of money.
+
+当我还是个小女孩的时候，我和弟弟收集了很多年的邮票。我母亲过去一周不工作，但她星期六在我们家附近的邮局工作，一发行新邮票，她就把它们带回家。1966年伦敦世界杯足球决赛那天，我们非常兴奋，因为英格兰队在决赛中与西德队比赛。当我们吃午饭的时候，我妈妈告诉我们如果英格兰赢了，比赛结束后马上去邮局，但她没有告诉我们原因。2点钟，我母亲像往常一样回去工作，而家里其他人在家里看电视转播的足球赛。虽然她没有看比赛，但她在收音机里听。英格兰队赢了4:2，所以我和我的兄弟们跑到邮局。当我们闯进来的时候，我母亲站在柜台后面。她正等着卖给我们一个非常特别的限量版，每一张邮票上都有英国的获奖者。我们在月球上。我们今天仍然有它，也许它值很多钱。
+
 1、 This passage mainly tells us______
 AThe author and her brother used to like stamps very much
 BThe author had a very kind mother
@@ -493,7 +542,11 @@ CThe author and her brother had got an unforgettable experience in collecting st
 Dtheir mother used to support them by working in the post office
 正确答案：C
 
-  
+  这一段主要告诉我们____
+作者和她哥哥过去非常喜欢邮票。
+B作者有一位非常善良的母亲。
+C作者和她哥哥在集邮方面有着难忘的经历。
+他们的母亲过去在邮局工作以支持他们。
 
 2、 According to the passage, her mother worked in the post office _____
 Aduring the week
@@ -502,7 +555,11 @@ Con Sundays
 Dfor six days
 正确答案：B
 
-  
+ 根据文章，她母亲在邮局工作。___
+吹捧一周
+本周六
+星期天
+六天内 
 
 3、 Their mother told them to go to the post office straightaway after the match if England won, but she didn't tell us why
 AShe wanted to give them a surprise
@@ -511,7 +568,11 @@ CShe forgot to do that
 DShe thought it unnecessary to tell them the reason
 正确答案：A
 
-  
+  他们的母亲告诉他们，如果英国队赢了，比赛结束后马上去邮局，但她没有告诉我们原因。
+阿什想给他们一个惊喜
+B如果她能拿到邮票，她就加倍了。
+C他忘了这么做
+他认为没必要告诉他们原因。
 
 4、 What does the sentence “we were over the moon
 AWe jumped high
@@ -520,7 +581,11 @@ CWe watched the moon for a long time
 DWe couldn't sleep the whole night
 正确答案：B
 
-  
+  那句话“我们在月球上”
+敬畏之心跳得很高
+我们对此非常高兴
+我们观察月球很久了
+我们整晚都睡不着
 
 5、 What is the best title for this passage?
 AMy Childhood
@@ -529,9 +594,16 @@ CA Precious Stamp
 DA Memorable Experience in Collecting Stamps
 正确答案：D
 
-  
+  这篇文章的最佳标题是什么？
+艾米童年
+BMY母亲
+CA珍贵邮票
+在集邮方面的难忘经历
 
 10、 The United States covers a large part of the North American continent. Its neighbors are Canada to the north and Mexico to the south. Although the United States is a big country , it is not the largest in the world. In 2000, its population was over 222 million. When this land first became a nation, after winning its independence from England, it had thirteen states. Each of the states was represented on the American flag by a star. All these were in the eastern part of the continent. As the nation grew toward the west, new states were added and new stars appeared on the flag. For a long time, there were 48 stars. In 1959, however, two more stars were added to the flag, representing the new states of Alaska and Hawaii. Indians were the first people of the land which is now the United States. There are still many thousands of Indians now living in all parts of the country. Sometimes it is said that the Indians are “the only real Americans”. Most Americans come from all over the world. Those who came first in greatest numbers to make their homes on the eastern of North America were mostly from England. It is for the reason that the language of the United States is English and that its culture and customs are more like those of England than those of any other country in the world.
+美国覆盖了北美大陆的大部分。它的邻居是北部的加拿大和南部的墨西哥。虽然美国是一个大国，但它并不是世界上最大的国家。2000年，人口超过2.22亿。当这片土地第一次成为一个国家时，在从英国独立后，它有十三个州。每一个州都由一颗星星代表在美国国旗上。所有这些都在大陆的东部。随着国家向西发展，新的州被增加，新的星星出现在国旗上。很长一段时间里，有48颗星星。然而，在1959年，又有两颗星星被添加到国旗上，代表了新的阿拉斯加州和夏威夷。印第安人是这片土地上的第一批人，现在是美国。现在仍有成千上万的印度人生活在这个国家的各个地方。有时据说印第安人是“唯一真正的美国人”。大多数美国人来自世界各地。在北美洲东部，那些在大多数人中居首位的人大多来自英国。这是因为美国的语言是英语，它的文化和习俗比世界上任何其他国家的文化和习俗更像英国。
+
+
 1、 Which of the following is TURE? 以下选项哪个是正确的？
 AAmerican is the largest country in the world
 BThe United States lies next to Canada and Mexico
@@ -539,7 +611,11 @@ CAmerica covers most part of the North American continent
 DMexico is to the north of Canada
 正确答案：B
 
-  
+  以下哪项是真的？以下选项哪个是正确的？
+美国是世界上最大的国家
+B美国毗邻加拿大和墨西哥。
+喀麦里加覆盖了北美大陆的大部分地区。
+DMEXICO在加拿大北部
 
 2、 After winning its independence, the United States
 Ahad nothing to do with England
@@ -548,7 +624,11 @@ Cmainly developed westward
 Dtook over parts of Canada and Mexico
 正确答案：A
 
-  
+ 美国在赢得独立后
+啊哈与英格兰无关
+BMADE印度部分土地
+C主要向西发展
+D检查加拿大和墨西哥的部分地区 
 
 3、 The United States didn’t have states until
 Athirteen;1959
@@ -557,7 +637,11 @@ Cfifty, this land first became a nation
 Dfifty;1964
 正确答案：B
 
-  
+ 美国直到
+阿提尔滕；1959年
+1959年
+如果，这片土地首先成为一个国家
+DFifty；1964年 
 
 4、 Why is English the language of America? 为什么美国的国语是英语？
 ABecause English is the native language of the Indians因为土著人的语言是英语。
@@ -566,7 +650,11 @@ CBecause Canada is America’s nearest neighbor
 DBecause most of the people who first settled in America were from England
 正确答案：D
 
-  
+  为什么英语是美国的语言？为什么美国的国语是英语？
+因为土著作家的语言是英语。
+因为大多数美国人来自世界各地
+加拿大是美国最近的邻居
+因为大多数最初在美国定居的人都来自英国。
 
 5、 The best title for the passage is “ ”
 Athe States of America
@@ -574,3 +662,14 @@ BThe language of America
 CThe United States of America
 DThe Culture and Customs of America
 正确答案：C
+
+文章的最佳标题是
+美国各州
+B美国语言
+C美利坚合众国
+D美国的文化和习俗
+
+////////////////////////////////////////////////////////////////
+
+
+
